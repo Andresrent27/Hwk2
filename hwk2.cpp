@@ -5,7 +5,7 @@
 #include<vector>
 
 using namespace std;
-//6 classes 
+
 
 int main(){
 
